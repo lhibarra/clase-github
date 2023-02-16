@@ -1,3 +1,8 @@
-from modulo import resta
-print("Hola Mundo")
-print(f"resta {1-2}")
+def suma(a,b):
+    return a + b
+
+def resta(a,b):
+    return a - b
+
+class Persona:
+    pass
